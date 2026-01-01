@@ -20,11 +20,6 @@
             "icon": "rocket",
             "pages": [
               {
-                "title": "Brand Identity",
-                "path": "brand-identity",
-                "icon": "activity"
-              },
-              {
                 "title": "Introduction",
                 "path": "introduction",
                 "icon": "home"
@@ -55,6 +50,19 @@
                 "title": "Our Methodology",
                 "path": "methodology",
                 "icon": "star"
+              }
+            ]
+          },
+          {
+            "group": "Updated Version",
+            "pages": [
+              {
+                "title": "Delivery",
+                "path": "delivery"
+              },
+              {
+                "title": "Brand Master",
+                "path": "Brand Master"
               }
             ]
           }
