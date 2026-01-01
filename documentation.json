@@ -20,6 +20,11 @@
             "icon": "rocket",
             "pages": [
               {
+                "title": "Brand Identity",
+                "path": "brand-identity",
+                "icon": "activity"
+              },
+              {
                 "title": "Introduction",
                 "path": "introduction",
                 "icon": "home"
