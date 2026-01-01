@@ -57,12 +57,12 @@
             "group": "Updated Version",
             "pages": [
               {
-                "title": "Delivery",
-                "path": "delivery"
-              },
-              {
                 "title": "Brand Master",
                 "path": "Brand Master"
+              },
+              {
+                "title": "Delivery",
+                "path": "delivery"
               }
             ]
           }
